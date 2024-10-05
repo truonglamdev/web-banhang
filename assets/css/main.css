@@ -2342,3 +2342,28 @@ input[type=number] {
     display: none;
 }
 
+.wrapper {
+    margin-top: 60px;
+    padding: 20px 400px;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.text-title {
+    font-size: 28px;
+    font-weight: bold;
+    color :#000;
+}
+
+.wrapper-img img {
+    width: 90%;
+
+}
+
+.wrapper-img p {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
