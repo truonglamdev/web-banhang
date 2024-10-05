@@ -33,7 +33,7 @@ function createProduct() {
         id: 4,
         status: 1,
         title: "Toner thiên nhiên ",
-        img: "./assets/img/products/lau_thai.jpg",
+        img: "./assets/img/products/sp3.jpg",
         category: "Món mặn",
         price: 699000,
         desc: "Toner Milaganics với thành phần chính từ các loại chiết xuất như cây phỉ, tràm trà, trà xanh, nha đam kết hợp cùng nước cất hoa hồng và các nguyên liệu tự nhiên khác, giúp cân bằng độ pH, giảm tiết dầu và tình trạng viêm. Đây đang là một trong những loại sản phẩm tự nhiên được rất nhiều tín đồ làm đẹp săn lùng hiện nay.",
