@@ -33,10 +33,10 @@ function createProduct() {
         id: 4,
         status: 1,
         title: "Toner thiên nhiên ",
-        img: "./assets/img/products/lau_thai.jpg",
+        img: "./assets/img/products/sp3.jpg",
         category: "Món mặn",
         price: 699000,
-        desc: "Toner Milaganics với thành phần chính từ các loại chiết xuất như cây phỉ, tràm trà, trà xanh, nha đam kết hợp cùng nước cất hoa hồng và các nguyên liệu tự nhiên khác, giúp cân bằng độ pH, giảm tiết dầu và tình trạng viêm. Đây đang là một trong những loại sản phẩm tự nhiên được rất nhiều tín đồ làm đẹp săn lùng hiện nay.",
+        desc: "Son Dưỡng Môi Milaganics 4.5g là dòng sản phẩm son dưỡng đến từ thương hiệu mỹ phẩm Milaganics xuất xứ Việt Nam, được làm từ 100% thành phần thiên nhiên như Gấc, Trà xanh, Dừa, Nha đam, giúp cung cấp độ ẩm và nuôi dưỡng cho đôi môi căng mọng, mướt mềm, hỗ trợ giảm thâm và giúp sắc son lên màu chuẩn và bền đẹp. Sản phẩm với hương thơm nhẹ nhàng, sẽ khiến bạn yêu thích ngay từ lần đầu sử dụng.",
       },
     //   {
     //     id: 5,
