@@ -32,31 +32,31 @@ function createProduct() {
       {
         id: 4,
         status: 1,
-        title: "Toner thiên nhiên ",
-        img: "./assets/img/products/sp3.jpg",
+        title: "Toner thiên nhiên",
+        img: "./assets/img/products/sp4.jpg",
         category: "Món mặn",
         price: 699000,
         desc: "Son Dưỡng Môi Milaganics 4.5g là dòng sản phẩm son dưỡng đến từ thương hiệu mỹ phẩm Milaganics xuất xứ Việt Nam, được làm từ 100% thành phần thiên nhiên như Gấc, Trà xanh, Dừa, Nha đam, giúp cung cấp độ ẩm và nuôi dưỡng cho đôi môi căng mọng, mướt mềm, hỗ trợ giảm thâm và giúp sắc son lên màu chuẩn và bền đẹp. Sản phẩm với hương thơm nhẹ nhàng, sẽ khiến bạn yêu thích ngay từ lần đầu sử dụng.",
       },
-    //   {
-    //     id: 5,
-    //     status: 1,
-    //     title: "Cơm chiên cua",
-    //     img: "./assets/img/products/com_chien_cua.png",
-    //     category: "Món mặn",
-    //     price: 280000,
-    //     desc: "Cơm nấu từ gạo ST25 dẻo, hạt cơm tơi ngon, thịt cua tươi chắc nịch, bếp đảo cho săn hạt cơm, rồi đổ cua đã xào thơm vào, xúc miếng cơm chiên cua đầy đặn có thêm hành phi giòn rụm, món ngon như vậy đảm bảo tranh nhau đến miếng cuối cùng.",
-    //   },
+      //   {
+      //     id: 5,
+      //     status: 1,
+      //     title: "Cơm chiên cua",
+      //     img: "./assets/img/products/com_chien_cua.png",
+      //     category: "Món mặn",
+      //     price: 280000,
+      //     desc: "Cơm nấu từ gạo ST25 dẻo, hạt cơm tơi ngon, thịt cua tươi chắc nịch, bếp đảo cho săn hạt cơm, rồi đổ cua đã xào thơm vào, xúc miếng cơm chiên cua đầy đặn có thêm hành phi giòn rụm, món ngon như vậy đảm bảo tranh nhau đến miếng cuối cùng.",
+      //   },
 
-    //   {
-    //     id: 6,
-    //     status: 1,
-    //     title: "Súp bào ngư hải sâm (1 phần)",
-    //     img: "./assets/img/products/sup-bao-ngu-hai-sam.jpeg",
-    //     category: "Món mặn",
-    //     price: 540000,
-    //     desc: "Súp bào ngư Bếp Hoa có bào ngư kết hợp cùng sò điệp, tôm tươi... được hầm trong nhiều giờ với rau củ & nấm đông trùng tạo ra vị ngọt tự nhiên hiếm thấy. Một món ăn khiến cả người ốm cũng thấy ngon miệng đó ạ.",
-    //   },
+      //   {
+      //     id: 6,
+      //     status: 1,
+      //     title: "Súp bào ngư hải sâm (1 phần)",
+      //     img: "./assets/img/products/sup-bao-ngu-hai-sam.jpeg",
+      //     category: "Món mặn",
+      //     price: 540000,
+      //     desc: "Súp bào ngư Bếp Hoa có bào ngư kết hợp cùng sò điệp, tôm tươi... được hầm trong nhiều giờ với rau củ & nấm đông trùng tạo ra vị ngọt tự nhiên hiếm thấy. Một món ăn khiến cả người ốm cũng thấy ngon miệng đó ạ.",
+      //   },
     ];
     localStorage.setItem("products", JSON.stringify(products));
   }
